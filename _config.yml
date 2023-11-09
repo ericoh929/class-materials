@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihwan Oh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/jihwan.png"
   bio              : "I am an **amazing** person."
   location         : "Seoul"
   email            :
