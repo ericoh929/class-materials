@@ -10,3 +10,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "머신러닝"
+        url: "https://ericoh929.github.io/machine-learning-algorithm"
+      - title: "딥러닝"
+        url:  "https://ericoh929.github.io/deep-learning-algorithm"
+      - title: "확률통계"
+        url:  "https://ericoh929.github.io/prob-statistics"
+      - title: "선형대수"
+        url:  "https://ericoh929.github.io/linear-algebra"
+      - title: "파이토치"
+        url:  "https://ericoh929.github.io/pytorch"
+      - title: "강화학습"
+        url:  "https://ericoh929.github.io/rl"
+      - title: "MARL"
+        url:  "https://ericoh929.github.io/marl"
+      - title: "Large Language Model"
+        url:  "https://ericoh929.github.io/llm"
