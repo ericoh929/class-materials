@@ -9,7 +9,7 @@ sidebar-category:
     children:
       - title: "Education / Career"
         url: "/education"
-        category: "education / career"
+        category: "education_career"
 
       - title: "Papers"
         url: "/papers"
