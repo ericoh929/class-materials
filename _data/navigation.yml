@@ -4,7 +4,18 @@ main:
     url: /search
 
 sidebar-category:
-  - title: "카테고리"
+
+  - title: 👔 "About me"
+    children:
+      - title: "Education / Career"
+        url: "/education"
+        category: "education / career"
+
+      - title: "Papers"
+        url: "/papers"
+        category: "papers"
+        
+  - title: 💻 "AI"
     children:
       - title: "머신러닝"
         url: "/machine-learning-algorithm"
