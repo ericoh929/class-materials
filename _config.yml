@@ -291,5 +291,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar_main: true                  # 추가한 부분
+      sidebar_main: true
+      # 추가한 부분
         #nav: "sidebar-category" # 추가한 부분
