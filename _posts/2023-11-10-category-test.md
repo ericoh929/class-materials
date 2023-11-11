@@ -1,8 +1,5 @@
 ---
-layout: post
-title: category test
-comments: true
-categories: [probability and statistics]
+title: "사이드바(SideBar) 카테고리 만들기"
+categories:
+  - pytorch
 ---
-
-# Fighting!
