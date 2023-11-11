@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Education / Career"
+title: "Education"
 categories:
-  - education / career
+  - education_career
 ---
 
 B.S. from Korea Military Academy (Economics)
