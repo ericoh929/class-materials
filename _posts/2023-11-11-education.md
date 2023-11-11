@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Education / Career"
 categories:
   - education / career
