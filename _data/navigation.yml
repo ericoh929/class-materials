@@ -15,18 +15,54 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "머신러닝"
-        url: "https://ericoh929.github.io/machine-learning-algorithm"
+        url: "/machine-learning-algorithm"
+        category: "machine-learning-algorithm"
+        
       - title: "딥러닝"
-        url:  "https://ericoh929.github.io/deep-learning-algorithm"
+        url:  "/deep-learning-algorithm"
+        category: "deep-learning-algorithm"
+        
       - title: "확률통계"
-        url:  "https://ericoh929.github.io/prob-statistics"
+        url:  "/prob-statistics"
+        category: "prob-statistics"
+        
       - title: "선형대수"
-        url:  "https://ericoh929.github.io/linear-algebra"
+        url:  "/linear-algebra"
+        category: "linear-algebra"
+        
       - title: "파이토치"
-        url:  "https://ericoh929.github.io/pytorch"
+        url:  "/pytorch"
+        category: "pytorch"
+        
       - title: "강화학습"
-        url:  "https://ericoh929.github.io/rl"
+        url:  "/rl"
+        category: "rl"
+        
       - title: "MARL"
-        url:  "https://ericoh929.github.io/marl"
+        url:  "/marl"
+        category: "marl"
+        
       - title: "Large Language Model"
-        url:  "https://ericoh929.github.io/llm"
+        url:  "/llm"
+        category: "llm"
+
+# sidebar-category:
+#   - title: "💻 Mathematics"
+#     children:
+#       - title: "C#"
+#         url: "/csharp"
+#         category: "csharp"
+      
+#       - title: "Minimal-Mistakes"
+#         url: "/Minimal-Mistakes"
+#         category: "Minimal-Mistakes"
+
+#       - title: "Tools"
+#         url: "/Tools"
+#         category: "Tools"
+
+#   - title: "👔 Life"
+#     children:
+#       - title: "정보"
+#         url: "/life-info"
+#         category: "life-info"
