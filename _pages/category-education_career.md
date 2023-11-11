@@ -1,5 +1,5 @@
 ---
-title: "education / career"
+title: "Education / Career"
 layout: archive
 permalink: /education
 ---
