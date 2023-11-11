@@ -5,7 +5,7 @@ main:
 
 sidebar-category:
 
-  - title: 👔 "About me"
+  - title: 👔 About me
     children:
       - title: "Education / Career"
         url: "/education"
@@ -15,7 +15,7 @@ sidebar-category:
         url: "/papers"
         category: "papers"
         
-  - title: 💻 "AI"
+  - title: 💻 AI
     children:
       - title: "머신러닝"
         url: "/machine-learning-algorithm"
