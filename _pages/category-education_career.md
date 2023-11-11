@@ -1,7 +1,7 @@
 ---
 title: "education / career"
 layout: archive
-permalink: /education / career
+permalink: /education
 ---
 
 
