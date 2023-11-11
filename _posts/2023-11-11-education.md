@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Education"
 categories:
   - education_career
