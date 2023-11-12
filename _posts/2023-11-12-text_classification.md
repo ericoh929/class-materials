@@ -1,7 +1,7 @@
 ---
 title: 'Text Classification'
 category:
-  - Large Language Model
+  - llm
 ---
 
 ```python
