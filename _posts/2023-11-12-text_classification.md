@@ -1,6 +1,6 @@
 ---
 title: 'Text Classification'
-category:
+categories:
   - llm
 ---
 
