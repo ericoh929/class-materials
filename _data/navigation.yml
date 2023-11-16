@@ -6,7 +6,8 @@ main:
 sidebar-category:
 
   - title: 👔 About me
-      url: "https://ericoh929.github.io/"
+      url: "https://ericoh929.github.io"
+      category: "me"
       
   - title: 💻 AI
     children:
