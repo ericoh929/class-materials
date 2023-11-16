@@ -6,7 +6,7 @@ main:
 sidebar-category:
 
   - title: 👔 About me
-      url: "https://ericoh929.github.io"
+      url: "/me"
       category: "me"
       
   - title: 💻 AI
