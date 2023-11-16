@@ -6,15 +6,8 @@ main:
 sidebar-category:
 
   - title: 👔 About me
-    children:
-      - title: "Education / Career"
-        url: "/education"
-        category: "education_career"
-
-      - title: "Papers"
-        url: "/papers"
-        category: "papers"
-        
+      url: "https://ericoh929.github.io/"
+      
   - title: 💻 AI
     children:
       - title: "머신러닝"
